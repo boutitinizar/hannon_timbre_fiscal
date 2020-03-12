@@ -1,2 +1,2 @@
-# Droit De Timbre Sur Facture
+# Droit de timbre sur facture
 Timbre fiscal avec écriture comptable Tunisie - Maroc - Algérie
