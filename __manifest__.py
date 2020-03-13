@@ -5,7 +5,8 @@
     'website': "https://hannon.tn",
     'category': 'Accounting',
     'version': '0.1',
-     'depends': ['base','account'],
+    'license': 'LGPL-3',
+    'depends': ['base','account'],
     'data': [
         'views/views.xml',
         'views/account_invoice_supplier.xml',
